@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Marvin Mungai
-- 👀 I’m interested in Web Development and Frontend Development
-- 🌱 I’m currently learning JavaScript Algorithms and Data Structures
-- 💞️ I’m looking to collaborate with other Junior and Senior Developers
-- 📫 How to reach me on my email @malonemungai58@gmail.com
+Hi there👋 
 
 <!---
 Mbglegeek/Mbglegeek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
